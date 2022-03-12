@@ -5,4 +5,4 @@ Explore the world of cryptocurrency using Cryptoverse. It was built using Reactj
 
 
 # Link
-[Cryptoverse](https://cryptoverse-titef.netlify.app)
+[Cryptoverse](https://622c1f9d3b0e3300093c2ae3--cryptoverse-titef.netlify.app)
